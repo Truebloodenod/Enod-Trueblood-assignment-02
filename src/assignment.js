@@ -2,8 +2,6 @@
 // DO NOT EDIT THIS BLOCK
 const assignment = {};
 // ========================
-
-
 /**
  * Challenge - 1
  * 
@@ -24,7 +22,6 @@ for (let i = 0; i < array.length; i++) {
 }
 console.log(sum);
 // assignment.sumOfNumbers = sumOfNumbers;
-
 /**
  * Challenge - 2
  * 
@@ -50,7 +47,6 @@ function countEvenNumbers(arr) {
     return arrayOfNumbers;
   }
 // assignment.countEvenNumbers = countEvenNumbers;
-
 /**
  * Challenge - 3
  * 
@@ -69,7 +65,6 @@ function celsiusToFahrenheit(arrayOfNumbers) {
     return arrayOfNumbers;
 }
 // assignment.celsiusToFahrenheit = celsiusToFahrenheit;
-
 
 // ========================
 // DO NOT EDIT THIS BLOCK
