@@ -2,7 +2,6 @@
 // DO NOT EDIT THIS BLOCK
 const assignment = {};
 // ========================
-/**
  * Challenge - 1
  * 
  * Calculate and return the sum of the numbers in an array.
